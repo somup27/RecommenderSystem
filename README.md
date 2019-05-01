@@ -1,7 +1,7 @@
 # RecommenderSystem
 A repository of the sample codes for the Recommender System lecture.
 
-All of the code snippets from in this repository are from Analytics Vidhya's and Medium's
+All of the code snippets in this repository are from Analytics Vidhya's and Medium's
 article on Recommender Engines.
 
 These code snippets are based on the MovieLens Dataset from the GroupLens Project at the University of Minnesota
@@ -14,3 +14,5 @@ The output from this program will show the list of the most similar movies of th
 
 MatrixFactorization.py is a recommendation engine implemented using the matrix factorization technique.
 The program displays each iteration, and the error of the matrix approximation at that iteration.
+
+- Somu Patil
